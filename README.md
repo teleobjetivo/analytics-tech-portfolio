@@ -85,3 +85,4 @@ La idea es que la lógica y los indicadores puedan llevarse fácilmente a herram
    python3 -m venv .venv
    source .venv/bin/activate
    pip install -r requirements.txt
+# mineria-performance-analytics
