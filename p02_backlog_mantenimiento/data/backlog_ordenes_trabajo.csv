@@ -1,0 +1,161 @@
+id_ot,equipo,fecha_creacion,fecha_vencimiento,criticidad_ot,criticidad_equipo,tipo_trabajo,sistema,estado,dias_backlog,faena,mes
+BK00001,CAEX-102,2025-07-20,2025-08-17,Media,Baja,Preventivo,Eléctrico,Planificada,11,Faena Atacama Norte,2025-07
+BK00002,CAEX-104,2025-02-23,2025-03-31,Alta,Media,Mejora,Transmisión,Abierta,158,Faena Atacama Norte,2025-02
+BK00003,CAEX-101,2025-03-17,2025-04-20,Media,Alta,Mejora,Hidráulico,Planificada,136,Faena Atacama Norte,2025-03
+BK00004,CAEX-101,2025-02-15,2025-02-22,Alta,Media,Inspección,Neumáticos,Abierta,166,Faena Atacama Norte,2025-02
+BK00005,CAEX-101,2025-03-13,2025-04-20,Baja,Media,Inspección,Neumáticos,Abierta,140,Faena Atacama Norte,2025-03
+BK00006,CAEX-105,2025-07-03,2025-07-28,Alta,Alta,Preventivo,Transmisión,En ejecución,28,Faena Atacama Norte,2025-07
+BK00007,CAEX-106,2025-05-12,2025-05-27,Baja,Baja,Preventivo,Eléctrico,Planificada,80,Faena Atacama Norte,2025-05
+BK00008,CAEX-105,2025-02-27,2025-03-23,Alta,Media,Mejora,Hidráulico,Planificada,154,Faena Atacama Norte,2025-02
+BK00009,CAEX-101,2025-06-22,2025-08-05,Media,Baja,Correctivo,Neumáticos,En ejecución,39,Faena Atacama Norte,2025-06
+BK00010,CAEX-106,2025-02-12,2025-03-23,Alta,Baja,Correctivo,Neumáticos,Planificada,169,Faena Atacama Norte,2025-02
+BK00011,CAEX-102,2025-04-05,2025-05-13,Baja,Media,Correctivo,Transmisión,En ejecución,117,Faena Atacama Norte,2025-04
+BK00012,CAEX-107,2025-04-14,2025-05-05,Media,Baja,Preventivo,Motor,Planificada,108,Faena Atacama Norte,2025-04
+BK00013,CAEX-107,2025-04-14,2025-05-20,Baja,Media,Correctivo,Hidráulico,Planificada,108,Faena Atacama Norte,2025-04
+BK00014,CAEX-107,2025-04-10,2025-04-28,Alta,Alta,Correctivo,Frenos,Abierta,112,Faena Atacama Norte,2025-04
+BK00015,CAEX-107,2025-04-20,2025-05-21,Alta,Alta,Preventivo,Motor,Abierta,102,Faena Atacama Norte,2025-04
+BK00016,CAEX-103,2025-06-13,2025-07-12,Alta,Media,Correctivo,Frenos,Abierta,48,Faena Atacama Norte,2025-06
+BK00017,CAEX-104,2025-03-29,2025-04-10,Media,Media,Mejora,Hidráulico,En ejecución,124,Faena Atacama Norte,2025-03
+BK00018,CAEX-108,2025-04-09,2025-04-21,Baja,Alta,Inspección,Neumáticos,Abierta,113,Faena Atacama Norte,2025-04
+BK00019,CAEX-102,2025-04-13,2025-04-16,Baja,Baja,Preventivo,Motor,Planificada,109,Faena Atacama Norte,2025-04
+BK00020,CAEX-108,2025-05-16,2025-05-23,Baja,Media,Correctivo,Neumáticos,Planificada,76,Faena Atacama Norte,2025-05
+BK00021,CAEX-107,2025-03-09,2025-03-29,Alta,Alta,Mejora,Neumáticos,En ejecución,144,Faena Atacama Norte,2025-03
+BK00022,CAEX-103,2025-05-17,2025-06-08,Media,Alta,Inspección,Hidráulico,Planificada,75,Faena Atacama Norte,2025-05
+BK00023,CAEX-104,2025-07-18,2025-07-26,Baja,Alta,Inspección,Frenos,Abierta,13,Faena Atacama Norte,2025-07
+BK00024,CAEX-101,2025-06-09,2025-06-28,Media,Media,Correctivo,Frenos,Planificada,52,Faena Atacama Norte,2025-06
+BK00025,CAEX-103,2025-02-14,2025-03-14,Alta,Media,Correctivo,Hidráulico,En ejecución,167,Faena Atacama Norte,2025-02
+BK00026,CAEX-107,2025-07-19,2025-07-30,Media,Alta,Preventivo,Hidráulico,Abierta,12,Faena Atacama Norte,2025-07
+BK00027,CAEX-106,2025-05-13,2025-05-29,Baja,Baja,Correctivo,Motor,En ejecución,79,Faena Atacama Norte,2025-05
+BK00028,CAEX-106,2025-03-03,2025-03-20,Alta,Alta,Mejora,Eléctrico,Planificada,150,Faena Atacama Norte,2025-03
+BK00029,CAEX-106,2025-05-18,2025-06-10,Media,Alta,Correctivo,Hidráulico,Abierta,74,Faena Atacama Norte,2025-05
+BK00030,CAEX-104,2025-06-28,2025-07-15,Media,Alta,Correctivo,Transmisión,Abierta,33,Faena Atacama Norte,2025-06
+BK00031,CAEX-106,2025-05-14,2025-06-17,Alta,Alta,Inspección,Neumáticos,En ejecución,78,Faena Atacama Norte,2025-05
+BK00032,CAEX-105,2025-03-26,2025-04-10,Baja,Alta,Preventivo,Eléctrico,Planificada,127,Faena Atacama Norte,2025-03
+BK00033,CAEX-102,2025-07-17,2025-08-06,Baja,Media,Inspección,Eléctrico,En ejecución,14,Faena Atacama Norte,2025-07
+BK00034,CAEX-104,2025-06-19,2025-07-07,Baja,Baja,Inspección,Frenos,En ejecución,42,Faena Atacama Norte,2025-06
+BK00035,CAEX-102,2025-05-28,2025-06-06,Media,Baja,Mejora,Hidráulico,Planificada,64,Faena Atacama Norte,2025-05
+BK00036,CAEX-102,2025-03-03,2025-04-03,Alta,Baja,Inspección,Motor,Abierta,150,Faena Atacama Norte,2025-03
+BK00037,CAEX-104,2025-02-03,2025-02-14,Baja,Baja,Inspección,Hidráulico,En ejecución,178,Faena Atacama Norte,2025-02
+BK00038,CAEX-106,2025-02-26,2025-03-12,Alta,Baja,Mejora,Transmisión,Abierta,155,Faena Atacama Norte,2025-02
+BK00039,CAEX-101,2025-07-15,2025-08-20,Baja,Alta,Correctivo,Motor,Abierta,16,Faena Atacama Norte,2025-07
+BK00040,CAEX-101,2025-05-08,2025-06-20,Baja,Alta,Correctivo,Eléctrico,Planificada,84,Faena Atacama Norte,2025-05
+BK00041,CAEX-101,2025-05-16,2025-06-16,Baja,Baja,Mejora,Eléctrico,Planificada,76,Faena Atacama Norte,2025-05
+BK00042,CAEX-108,2025-02-02,2025-03-16,Media,Media,Inspección,Motor,En ejecución,179,Faena Atacama Norte,2025-02
+BK00043,CAEX-101,2025-02-11,2025-03-22,Alta,Baja,Inspección,Hidráulico,En ejecución,170,Faena Atacama Norte,2025-02
+BK00044,CAEX-105,2025-05-20,2025-06-11,Media,Alta,Correctivo,Frenos,En ejecución,72,Faena Atacama Norte,2025-05
+BK00045,CAEX-107,2025-05-29,2025-07-03,Media,Alta,Inspección,Hidráulico,Planificada,63,Faena Atacama Norte,2025-05
+BK00046,CAEX-102,2025-02-23,2025-03-10,Alta,Alta,Mejora,Hidráulico,Abierta,158,Faena Atacama Norte,2025-02
+BK00047,CAEX-107,2025-07-16,2025-08-06,Baja,Media,Mejora,Eléctrico,En ejecución,15,Faena Atacama Norte,2025-07
+BK00048,CAEX-103,2025-07-06,2025-07-31,Media,Baja,Preventivo,Hidráulico,Abierta,25,Faena Atacama Norte,2025-07
+BK00049,CAEX-105,2025-07-15,2025-08-28,Alta,Media,Preventivo,Hidráulico,En ejecución,16,Faena Atacama Norte,2025-07
+BK00050,CAEX-107,2025-06-13,2025-07-22,Alta,Media,Correctivo,Transmisión,Abierta,48,Faena Atacama Norte,2025-06
+BK00051,CAEX-104,2025-07-08,2025-07-31,Media,Alta,Inspección,Neumáticos,Abierta,23,Faena Atacama Norte,2025-07
+BK00052,CAEX-104,2025-04-23,2025-05-23,Media,Baja,Correctivo,Transmisión,Planificada,99,Faena Atacama Norte,2025-04
+BK00053,CAEX-106,2025-06-29,2025-07-09,Alta,Baja,Preventivo,Eléctrico,Planificada,32,Faena Atacama Norte,2025-06
+BK00054,CAEX-106,2025-06-23,2025-07-30,Alta,Media,Mejora,Motor,Abierta,38,Faena Atacama Norte,2025-06
+BK00055,CAEX-107,2025-06-06,2025-07-01,Alta,Alta,Correctivo,Motor,Planificada,55,Faena Atacama Norte,2025-06
+BK00056,CAEX-107,2025-06-20,2025-07-14,Alta,Media,Correctivo,Neumáticos,En ejecución,41,Faena Atacama Norte,2025-06
+BK00057,CAEX-102,2025-05-31,2025-07-05,Media,Alta,Mejora,Frenos,Planificada,61,Faena Atacama Norte,2025-05
+BK00058,CAEX-101,2025-07-18,2025-08-16,Alta,Alta,Inspección,Transmisión,Abierta,13,Faena Atacama Norte,2025-07
+BK00059,CAEX-105,2025-02-04,2025-02-08,Media,Alta,Preventivo,Neumáticos,Abierta,177,Faena Atacama Norte,2025-02
+BK00060,CAEX-106,2025-06-06,2025-06-19,Baja,Alta,Correctivo,Hidráulico,Planificada,55,Faena Atacama Norte,2025-06
+BK00061,CAEX-107,2025-07-01,2025-07-09,Media,Media,Inspección,Hidráulico,Abierta,30,Faena Atacama Norte,2025-07
+BK00062,CAEX-103,2025-04-27,2025-05-31,Alta,Baja,Mejora,Motor,En ejecución,95,Faena Atacama Norte,2025-04
+BK00063,CAEX-102,2025-07-01,2025-07-03,Media,Alta,Correctivo,Eléctrico,En ejecución,30,Faena Atacama Norte,2025-07
+BK00064,CAEX-107,2025-06-04,2025-06-14,Alta,Baja,Correctivo,Motor,En ejecución,57,Faena Atacama Norte,2025-06
+BK00065,CAEX-104,2025-07-13,2025-08-09,Baja,Media,Inspección,Transmisión,Planificada,18,Faena Atacama Norte,2025-07
+BK00066,CAEX-101,2025-03-15,2025-04-16,Baja,Baja,Preventivo,Motor,Planificada,138,Faena Atacama Norte,2025-03
+BK00067,CAEX-101,2025-07-03,2025-07-26,Media,Media,Mejora,Frenos,Planificada,28,Faena Atacama Norte,2025-07
+BK00068,CAEX-103,2025-02-24,2025-04-04,Baja,Alta,Correctivo,Neumáticos,En ejecución,157,Faena Atacama Norte,2025-02
+BK00069,CAEX-103,2025-06-08,2025-07-20,Media,Baja,Correctivo,Hidráulico,Planificada,53,Faena Atacama Norte,2025-06
+BK00070,CAEX-105,2025-07-07,2025-07-13,Baja,Media,Mejora,Eléctrico,En ejecución,24,Faena Atacama Norte,2025-07
+BK00071,CAEX-108,2025-07-19,2025-08-31,Media,Alta,Correctivo,Eléctrico,Planificada,12,Faena Atacama Norte,2025-07
+BK00072,CAEX-101,2025-03-10,2025-04-07,Media,Alta,Correctivo,Transmisión,Abierta,143,Faena Atacama Norte,2025-03
+BK00073,CAEX-102,2025-07-01,2025-07-30,Media,Alta,Preventivo,Frenos,Abierta,30,Faena Atacama Norte,2025-07
+BK00074,CAEX-103,2025-02-14,2025-02-19,Alta,Baja,Inspección,Motor,Planificada,167,Faena Atacama Norte,2025-02
+BK00075,CAEX-108,2025-03-26,2025-04-23,Alta,Baja,Correctivo,Hidráulico,Abierta,127,Faena Atacama Norte,2025-03
+BK00076,CAEX-101,2025-05-12,2025-06-14,Alta,Baja,Preventivo,Motor,Planificada,80,Faena Atacama Norte,2025-05
+BK00077,CAEX-104,2025-02-27,2025-03-26,Media,Media,Inspección,Motor,En ejecución,154,Faena Atacama Norte,2025-02
+BK00078,CAEX-105,2025-04-09,2025-04-13,Media,Alta,Mejora,Transmisión,Abierta,113,Faena Atacama Norte,2025-04
+BK00079,CAEX-101,2025-05-29,2025-06-22,Alta,Alta,Inspección,Transmisión,En ejecución,63,Faena Atacama Norte,2025-05
+BK00080,CAEX-107,2025-03-31,2025-05-13,Baja,Alta,Correctivo,Motor,Abierta,122,Faena Atacama Norte,2025-03
+BK00081,CAEX-102,2025-03-09,2025-04-11,Alta,Media,Correctivo,Hidráulico,Abierta,144,Faena Atacama Norte,2025-03
+BK00082,CAEX-108,2025-05-09,2025-05-16,Baja,Media,Preventivo,Eléctrico,Planificada,83,Faena Atacama Norte,2025-05
+BK00083,CAEX-101,2025-03-14,2025-04-27,Alta,Baja,Correctivo,Neumáticos,En ejecución,139,Faena Atacama Norte,2025-03
+BK00084,CAEX-103,2025-04-10,2025-05-24,Baja,Alta,Mejora,Neumáticos,Planificada,112,Faena Atacama Norte,2025-04
+BK00085,CAEX-102,2025-04-04,2025-04-12,Media,Alta,Correctivo,Transmisión,Abierta,118,Faena Atacama Norte,2025-04
+BK00086,CAEX-101,2025-03-19,2025-04-25,Media,Alta,Correctivo,Eléctrico,En ejecución,134,Faena Atacama Norte,2025-03
+BK00087,CAEX-102,2025-04-21,2025-05-10,Baja,Baja,Inspección,Neumáticos,En ejecución,101,Faena Atacama Norte,2025-04
+BK00088,CAEX-102,2025-06-02,2025-06-29,Media,Media,Correctivo,Neumáticos,Abierta,59,Faena Atacama Norte,2025-06
+BK00089,CAEX-107,2025-05-19,2025-06-09,Alta,Alta,Mejora,Neumáticos,Abierta,73,Faena Atacama Norte,2025-05
+BK00090,CAEX-107,2025-07-24,2025-08-29,Baja,Media,Preventivo,Eléctrico,Abierta,7,Faena Atacama Norte,2025-07
+BK00091,CAEX-107,2025-04-30,2025-06-14,Alta,Media,Inspección,Frenos,Abierta,92,Faena Atacama Norte,2025-04
+BK00092,CAEX-107,2025-07-01,2025-08-06,Baja,Media,Preventivo,Hidráulico,Planificada,30,Faena Atacama Norte,2025-07
+BK00093,CAEX-102,2025-02-05,2025-03-19,Media,Media,Inspección,Transmisión,Abierta,176,Faena Atacama Norte,2025-02
+BK00094,CAEX-105,2025-04-11,2025-05-24,Alta,Baja,Correctivo,Frenos,Planificada,111,Faena Atacama Norte,2025-04
+BK00095,CAEX-105,2025-06-27,2025-07-02,Media,Alta,Preventivo,Frenos,Abierta,34,Faena Atacama Norte,2025-06
+BK00096,CAEX-108,2025-07-17,2025-07-29,Media,Alta,Mejora,Motor,En ejecución,14,Faena Atacama Norte,2025-07
+BK00097,CAEX-102,2025-04-28,2025-05-31,Baja,Baja,Correctivo,Frenos,En ejecución,94,Faena Atacama Norte,2025-04
+BK00098,CAEX-103,2025-02-26,2025-03-25,Media,Media,Inspección,Frenos,En ejecución,155,Faena Atacama Norte,2025-02
+BK00099,CAEX-103,2025-07-04,2025-07-07,Baja,Alta,Mejora,Frenos,Abierta,27,Faena Atacama Norte,2025-07
+BK00100,CAEX-102,2025-06-17,2025-06-22,Baja,Alta,Correctivo,Motor,Planificada,44,Faena Atacama Norte,2025-06
+BK00101,CAEX-107,2025-04-28,2025-05-22,Alta,Alta,Preventivo,Hidráulico,Planificada,94,Faena Atacama Norte,2025-04
+BK00102,CAEX-107,2025-05-09,2025-06-06,Alta,Alta,Mejora,Motor,Abierta,83,Faena Atacama Norte,2025-05
+BK00103,CAEX-105,2025-05-25,2025-06-02,Baja,Media,Correctivo,Motor,Planificada,67,Faena Atacama Norte,2025-05
+BK00104,CAEX-104,2025-06-11,2025-06-19,Media,Media,Mejora,Neumáticos,En ejecución,50,Faena Atacama Norte,2025-06
+BK00105,CAEX-101,2025-07-27,2025-08-02,Alta,Baja,Mejora,Neumáticos,Planificada,4,Faena Atacama Norte,2025-07
+BK00106,CAEX-106,2025-05-06,2025-06-01,Media,Alta,Inspección,Frenos,En ejecución,86,Faena Atacama Norte,2025-05
+BK00107,CAEX-107,2025-06-11,2025-06-12,Baja,Alta,Preventivo,Frenos,En ejecución,50,Faena Atacama Norte,2025-06
+BK00108,CAEX-101,2025-06-04,2025-06-30,Baja,Media,Inspección,Motor,En ejecución,57,Faena Atacama Norte,2025-06
+BK00109,CAEX-107,2025-04-23,2025-05-15,Alta,Baja,Preventivo,Frenos,Planificada,99,Faena Atacama Norte,2025-04
+BK00110,CAEX-107,2025-02-06,2025-02-27,Baja,Alta,Correctivo,Transmisión,Planificada,175,Faena Atacama Norte,2025-02
+BK00111,CAEX-102,2025-02-19,2025-03-22,Baja,Media,Inspección,Motor,Abierta,162,Faena Atacama Norte,2025-02
+BK00112,CAEX-102,2025-04-08,2025-05-02,Baja,Alta,Inspección,Motor,Abierta,114,Faena Atacama Norte,2025-04
+BK00113,CAEX-102,2025-05-28,2025-06-30,Baja,Alta,Mejora,Eléctrico,En ejecución,64,Faena Atacama Norte,2025-05
+BK00114,CAEX-105,2025-05-28,2025-07-02,Baja,Alta,Preventivo,Hidráulico,Abierta,64,Faena Atacama Norte,2025-05
+BK00115,CAEX-102,2025-02-06,2025-03-20,Baja,Alta,Inspección,Frenos,En ejecución,175,Faena Atacama Norte,2025-02
+BK00116,CAEX-103,2025-02-02,2025-03-10,Alta,Alta,Correctivo,Neumáticos,En ejecución,179,Faena Atacama Norte,2025-02
+BK00117,CAEX-103,2025-03-30,2025-04-23,Alta,Baja,Inspección,Hidráulico,Planificada,123,Faena Atacama Norte,2025-03
+BK00118,CAEX-106,2025-06-22,2025-07-15,Alta,Media,Mejora,Frenos,En ejecución,39,Faena Atacama Norte,2025-06
+BK00119,CAEX-102,2025-07-22,2025-08-02,Alta,Baja,Preventivo,Transmisión,Planificada,9,Faena Atacama Norte,2025-07
+BK00120,CAEX-101,2025-03-04,2025-03-31,Alta,Baja,Preventivo,Frenos,Abierta,149,Faena Atacama Norte,2025-03
+BK00121,CAEX-101,2025-07-24,2025-07-31,Alta,Alta,Correctivo,Transmisión,En ejecución,7,Faena Atacama Norte,2025-07
+BK00122,CAEX-106,2025-03-19,2025-04-30,Baja,Media,Inspección,Hidráulico,Abierta,134,Faena Atacama Norte,2025-03
+BK00123,CAEX-101,2025-05-25,2025-07-03,Alta,Media,Preventivo,Frenos,En ejecución,67,Faena Atacama Norte,2025-05
+BK00124,CAEX-106,2025-05-04,2025-05-10,Media,Media,Correctivo,Neumáticos,En ejecución,88,Faena Atacama Norte,2025-05
+BK00125,CAEX-107,2025-06-07,2025-07-13,Baja,Alta,Inspección,Hidráulico,Abierta,54,Faena Atacama Norte,2025-06
+BK00126,CAEX-105,2025-07-02,2025-07-08,Alta,Media,Mejora,Eléctrico,En ejecución,29,Faena Atacama Norte,2025-07
+BK00127,CAEX-102,2025-05-23,2025-06-25,Baja,Baja,Inspección,Eléctrico,Abierta,69,Faena Atacama Norte,2025-05
+BK00128,CAEX-107,2025-03-31,2025-04-04,Alta,Baja,Correctivo,Hidráulico,En ejecución,122,Faena Atacama Norte,2025-03
+BK00129,CAEX-101,2025-03-31,2025-04-22,Alta,Baja,Preventivo,Neumáticos,En ejecución,122,Faena Atacama Norte,2025-03
+BK00130,CAEX-102,2025-02-16,2025-03-18,Alta,Baja,Mejora,Hidráulico,Abierta,165,Faena Atacama Norte,2025-02
+BK00131,CAEX-101,2025-03-30,2025-05-02,Baja,Media,Preventivo,Transmisión,Planificada,123,Faena Atacama Norte,2025-03
+BK00132,CAEX-103,2025-03-15,2025-04-03,Alta,Baja,Preventivo,Motor,Abierta,138,Faena Atacama Norte,2025-03
+BK00133,CAEX-108,2025-05-18,2025-06-29,Baja,Baja,Mejora,Transmisión,Abierta,74,Faena Atacama Norte,2025-05
+BK00134,CAEX-105,2025-06-22,2025-07-27,Alta,Alta,Correctivo,Hidráulico,Abierta,39,Faena Atacama Norte,2025-06
+BK00135,CAEX-101,2025-04-30,2025-05-10,Baja,Media,Inspección,Eléctrico,Planificada,92,Faena Atacama Norte,2025-04
+BK00136,CAEX-101,2025-03-24,2025-04-24,Baja,Baja,Inspección,Transmisión,Planificada,129,Faena Atacama Norte,2025-03
+BK00137,CAEX-107,2025-02-15,2025-03-20,Media,Alta,Preventivo,Frenos,Planificada,166,Faena Atacama Norte,2025-02
+BK00138,CAEX-107,2025-07-21,2025-08-06,Alta,Baja,Inspección,Hidráulico,Planificada,10,Faena Atacama Norte,2025-07
+BK00139,CAEX-107,2025-05-13,2025-06-16,Alta,Alta,Inspección,Hidráulico,En ejecución,79,Faena Atacama Norte,2025-05
+BK00140,CAEX-106,2025-02-05,2025-03-18,Baja,Baja,Preventivo,Neumáticos,Abierta,176,Faena Atacama Norte,2025-02
+BK00141,CAEX-107,2025-05-12,2025-06-18,Media,Baja,Mejora,Frenos,En ejecución,80,Faena Atacama Norte,2025-05
+BK00142,CAEX-107,2025-07-05,2025-08-09,Baja,Alta,Correctivo,Frenos,En ejecución,26,Faena Atacama Norte,2025-07
+BK00143,CAEX-105,2025-04-11,2025-05-10,Media,Alta,Preventivo,Eléctrico,Planificada,111,Faena Atacama Norte,2025-04
+BK00144,CAEX-102,2025-05-10,2025-05-23,Alta,Baja,Preventivo,Frenos,Planificada,82,Faena Atacama Norte,2025-05
+BK00145,CAEX-107,2025-05-24,2025-06-29,Alta,Media,Mejora,Neumáticos,Abierta,68,Faena Atacama Norte,2025-05
+BK00146,CAEX-102,2025-02-21,2025-03-10,Baja,Alta,Inspección,Neumáticos,Abierta,160,Faena Atacama Norte,2025-02
+BK00147,CAEX-106,2025-07-15,2025-08-08,Baja,Media,Inspección,Hidráulico,Planificada,16,Faena Atacama Norte,2025-07
+BK00148,CAEX-102,2025-06-20,2025-07-05,Baja,Media,Mejora,Transmisión,Abierta,41,Faena Atacama Norte,2025-06
+BK00149,CAEX-108,2025-02-17,2025-03-04,Alta,Baja,Mejora,Hidráulico,Abierta,164,Faena Atacama Norte,2025-02
+BK00150,CAEX-108,2025-06-24,2025-07-02,Alta,Alta,Mejora,Hidráulico,En ejecución,37,Faena Atacama Norte,2025-06
+BK00151,CAEX-106,2025-06-03,2025-07-17,Baja,Alta,Preventivo,Hidráulico,Planificada,58,Faena Atacama Norte,2025-06
+BK00152,CAEX-101,2025-04-21,2025-04-28,Media,Baja,Preventivo,Eléctrico,Planificada,101,Faena Atacama Norte,2025-04
+BK00153,CAEX-103,2025-06-02,2025-06-06,Baja,Alta,Preventivo,Motor,En ejecución,59,Faena Atacama Norte,2025-06
+BK00154,CAEX-101,2025-05-11,2025-06-23,Baja,Media,Correctivo,Hidráulico,En ejecución,81,Faena Atacama Norte,2025-05
+BK00155,CAEX-104,2025-05-14,2025-06-08,Media,Alta,Preventivo,Motor,Abierta,78,Faena Atacama Norte,2025-05
+BK00156,CAEX-107,2025-02-25,2025-03-17,Alta,Media,Inspección,Neumáticos,Planificada,156,Faena Atacama Norte,2025-02
+BK00157,CAEX-101,2025-06-04,2025-07-08,Media,Baja,Mejora,Neumáticos,En ejecución,57,Faena Atacama Norte,2025-06
+BK00158,CAEX-101,2025-02-23,2025-03-13,Baja,Media,Mejora,Neumáticos,Planificada,158,Faena Atacama Norte,2025-02
+BK00159,CAEX-108,2025-03-30,2025-04-05,Alta,Alta,Correctivo,Eléctrico,Planificada,123,Faena Atacama Norte,2025-03
+BK00160,CAEX-105,2025-02-01,2025-03-06,Alta,Media,Preventivo,Neumáticos,En ejecución,180,Faena Atacama Norte,2025-02

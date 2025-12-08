@@ -1,0 +1,151 @@
+id_ot,equipo,fecha_inicio,fecha_termino,tipo_mantencion,sistema,causa_raiz,horas_paro,horas_trabajadas_periodo,criticidad_equipo,faena,mes
+OT00001,CAEX-103,2025-03-08 10:31:15,2025-03-08 23:01:01,Correctiva,Transmisión,Rotura de neumático,12.5,207.8,Media,Faena Atacama Norte,2025-03
+OT00002,CAEX-102,2025-04-27 12:57:12,2025-04-28 02:45:41,Preventiva,Hidráulico,Sobrecalentamiento motor,13.81,259.5,Media,Faena Atacama Norte,2025-04
+OT00003,CAEX-105,2025-01-07 09:28:05,2025-01-07 11:25:40,Correctiva,Hidráulico,Rotura de neumático,1.96,315.1,Alta,Faena Atacama Norte,2025-01
+OT00004,CAEX-105,2025-02-04 11:31:49,2025-02-04 23:49:40,Correctiva,Hidráulico,Falla eléctrica en tablero,12.3,277.2,Media,Faena Atacama Norte,2025-02
+OT00005,CAEX-104,2025-04-17 23:13:29,2025-04-18 01:42:37,Preventiva,Hidráulico,Rotura de neumático,2.49,210.1,Media,Faena Atacama Norte,2025-04
+OT00006,CAEX-102,2025-03-23 23:08:43,2025-03-24 05:23:33,Correctiva,Eléctrico,Fuga hidráulica,6.25,305.4,Baja,Faena Atacama Norte,2025-03
+OT00007,CAEX-105,2025-06-27 16:01:02,2025-06-28 02:29:49,Preventiva,Neumáticos,Rotura de neumático,10.48,284.6,Alta,Faena Atacama Norte,2025-06
+OT00008,CAEX-106,2025-04-29 21:32:41,2025-04-30 04:55:03,Preventiva,Transmisión,Rotura de neumático,7.37,165.4,Baja,Faena Atacama Norte,2025-04
+OT00009,CAEX-103,2025-03-14 17:44:12,2025-03-15 02:49:57,Correctiva,Hidráulico,Desgaste de frenos,9.1,132.8,Media,Faena Atacama Norte,2025-03
+OT00010,CAEX-103,2025-04-17 08:10:34,2025-04-17 21:30:15,Correctiva,Eléctrico,Falla eléctrica en tablero,13.33,246.3,Baja,Faena Atacama Norte,2025-04
+OT00011,CAEX-108,2025-01-24 22:47:05,2025-01-25 11:02:06,Correctiva,Motor,Falla eléctrica en tablero,12.25,190.9,Media,Faena Atacama Norte,2025-01
+OT00012,CAEX-102,2025-06-19 00:19:03,2025-06-19 15:51:47,Correctiva,Hidráulico,Desgaste de frenos,15.55,298.6,Baja,Faena Atacama Norte,2025-06
+OT00013,CAEX-103,2025-03-16 12:48:40,2025-03-17 01:22:33,Correctiva,Neumáticos,Desgaste de frenos,12.56,158.9,Baja,Faena Atacama Norte,2025-03
+OT00014,CAEX-107,2025-01-18 04:47:34,2025-01-18 12:31:37,Preventiva,Motor,Sensor defectuoso,7.73,128.8,Alta,Faena Atacama Norte,2025-01
+OT00015,CAEX-107,2025-03-10 00:06:47,2025-03-10 03:00:16,Correctiva,Transmisión,Rotura de neumático,2.89,256.6,Media,Faena Atacama Norte,2025-03
+OT00016,CAEX-107,2025-06-22 03:43:40,2025-06-22 15:46:17,Correctiva,Hidráulico,Rotura de neumático,12.04,313.5,Media,Faena Atacama Norte,2025-06
+OT00017,CAEX-102,2025-04-16 06:06:46,2025-04-16 11:39:47,Preventiva,Neumáticos,Rotura de neumático,5.55,194.1,Media,Faena Atacama Norte,2025-04
+OT00018,CAEX-104,2025-05-29 11:55:35,2025-05-29 19:42:16,Correctiva,Eléctrico,Fuga hidráulica,7.78,157.9,Alta,Faena Atacama Norte,2025-05
+OT00019,CAEX-102,2025-04-20 02:33:45,2025-04-20 05:04:34,Preventiva,Hidráulico,Desgaste de frenos,2.51,215.1,Media,Faena Atacama Norte,2025-04
+OT00020,CAEX-105,2025-01-27 18:42:44,2025-01-27 22:43:45,Preventiva,Frenos,Falla eléctrica en tablero,4.02,254.0,Alta,Faena Atacama Norte,2025-01
+OT00021,CAEX-105,2025-02-17 14:13:40,2025-02-17 21:30:13,Correctiva,Neumáticos,Sobrecalentamiento motor,7.28,286.5,Baja,Faena Atacama Norte,2025-02
+OT00022,CAEX-102,2025-01-14 20:22:00,2025-01-15 07:43:14,Correctiva,Hidráulico,Fuga hidráulica,11.35,182.5,Alta,Faena Atacama Norte,2025-01
+OT00023,CAEX-108,2025-05-05 20:34:03,2025-05-06 09:58:03,Correctiva,Neumáticos,Fuga hidráulica,13.4,281.0,Baja,Faena Atacama Norte,2025-05
+OT00024,CAEX-105,2025-05-05 19:27:52,2025-05-06 01:58:13,Correctiva,Frenos,Sensor defectuoso,6.51,177.7,Alta,Faena Atacama Norte,2025-05
+OT00025,CAEX-108,2025-05-18 23:10:52,2025-05-19 10:15:35,Preventiva,Transmisión,Sobrecalentamiento motor,11.08,148.0,Alta,Faena Atacama Norte,2025-05
+OT00026,CAEX-106,2025-06-08 13:56:43,2025-06-08 17:32:37,Preventiva,Transmisión,Rotura de neumático,3.6,121.5,Baja,Faena Atacama Norte,2025-06
+OT00027,CAEX-101,2025-01-15 09:03:10,2025-01-15 21:45:00,Preventiva,Hidráulico,Rotura de neumático,12.7,253.0,Media,Faena Atacama Norte,2025-01
+OT00028,CAEX-104,2025-06-21 07:53:16,2025-06-21 19:19:04,Correctiva,Transmisión,Sensor defectuoso,11.43,276.1,Media,Faena Atacama Norte,2025-06
+OT00029,CAEX-106,2025-01-23 02:12:58,2025-01-23 09:49:45,Preventiva,Neumáticos,Sensor defectuoso,7.61,233.7,Baja,Faena Atacama Norte,2025-01
+OT00030,CAEX-101,2025-01-23 05:56:18,2025-01-23 08:36:18,Preventiva,Neumáticos,Desgaste de frenos,2.67,142.9,Alta,Faena Atacama Norte,2025-01
+OT00031,CAEX-105,2025-05-08 18:21:42,2025-05-09 05:13:18,Preventiva,Frenos,Falla eléctrica en tablero,10.86,214.2,Media,Faena Atacama Norte,2025-05
+OT00032,CAEX-104,2025-03-08 20:09:10,2025-03-09 05:24:50,Correctiva,Eléctrico,Fuga hidráulica,9.26,273.0,Baja,Faena Atacama Norte,2025-03
+OT00033,CAEX-105,2025-05-28 14:20:55,2025-05-29 00:41:12,Preventiva,Frenos,Fuga hidráulica,10.34,230.7,Baja,Faena Atacama Norte,2025-05
+OT00034,CAEX-107,2025-04-20 08:54:56,2025-04-20 18:04:59,Preventiva,Transmisión,Sobrecalentamiento motor,9.17,180.8,Baja,Faena Atacama Norte,2025-04
+OT00035,CAEX-107,2025-03-05 21:27:39,2025-03-05 22:26:18,Preventiva,Transmisión,Fuga hidráulica,0.98,207.3,Baja,Faena Atacama Norte,2025-03
+OT00036,CAEX-106,2025-05-25 19:34:41,2025-05-25 23:24:14,Preventiva,Transmisión,Rotura de neumático,3.83,201.7,Alta,Faena Atacama Norte,2025-05
+OT00037,CAEX-102,2025-02-05 18:52:08,2025-02-06 08:35:47,Correctiva,Neumáticos,Desgaste de frenos,13.73,166.8,Alta,Faena Atacama Norte,2025-02
+OT00038,CAEX-104,2025-01-05 20:13:05,2025-01-05 21:37:18,Correctiva,Neumáticos,Sobrecalentamiento motor,1.4,176.3,Baja,Faena Atacama Norte,2025-01
+OT00039,CAEX-105,2025-04-15 05:13:57,2025-04-15 10:16:59,Preventiva,Neumáticos,Desgaste de frenos,5.05,252.4,Alta,Faena Atacama Norte,2025-04
+OT00040,CAEX-105,2025-05-31 14:40:51,2025-05-31 23:48:53,Correctiva,Motor,Fuga hidráulica,9.13,276.8,Media,Faena Atacama Norte,2025-05
+OT00041,CAEX-102,2025-04-05 07:05:31,2025-04-05 17:53:19,Preventiva,Neumáticos,Sensor defectuoso,10.8,201.3,Alta,Faena Atacama Norte,2025-04
+OT00042,CAEX-104,2025-01-24 11:35:03,2025-01-25 00:42:05,Correctiva,Neumáticos,Rotura de neumático,13.12,153.4,Alta,Faena Atacama Norte,2025-01
+OT00043,CAEX-101,2025-03-02 04:11:42,2025-03-02 05:02:49,Preventiva,Hidráulico,Fuga hidráulica,0.85,138.0,Baja,Faena Atacama Norte,2025-03
+OT00044,CAEX-107,2025-02-24 11:34:02,2025-02-24 23:15:49,Preventiva,Hidráulico,Rotura de neumático,11.7,212.4,Media,Faena Atacama Norte,2025-02
+OT00045,CAEX-102,2025-05-26 22:48:41,2025-05-27 01:48:39,Preventiva,Frenos,Desgaste de frenos,3.0,220.2,Media,Faena Atacama Norte,2025-05
+OT00046,CAEX-105,2025-05-20 00:52:45,2025-05-20 03:44:24,Preventiva,Frenos,Desgaste de frenos,2.86,259.3,Baja,Faena Atacama Norte,2025-05
+OT00047,CAEX-102,2025-06-27 09:17:58,2025-06-27 16:42:53,Preventiva,Frenos,Sensor defectuoso,7.42,196.2,Alta,Faena Atacama Norte,2025-06
+OT00048,CAEX-105,2025-05-22 03:27:56,2025-05-22 08:38:20,Preventiva,Eléctrico,Desgaste de frenos,5.17,246.1,Media,Faena Atacama Norte,2025-05
+OT00049,CAEX-101,2025-03-03 17:24:33,2025-03-03 23:31:02,Preventiva,Motor,Fuga hidráulica,6.11,137.5,Media,Faena Atacama Norte,2025-03
+OT00050,CAEX-104,2025-05-23 21:24:33,2025-05-23 23:44:17,Preventiva,Frenos,Fuga hidráulica,2.33,312.4,Alta,Faena Atacama Norte,2025-05
+OT00051,CAEX-108,2025-05-28 10:32:42,2025-05-29 01:07:40,Preventiva,Transmisión,Sobrecalentamiento motor,14.58,259.9,Baja,Faena Atacama Norte,2025-05
+OT00052,CAEX-106,2025-03-18 13:26:29,2025-03-18 18:03:44,Preventiva,Eléctrico,Sobrecalentamiento motor,4.62,313.8,Alta,Faena Atacama Norte,2025-03
+OT00053,CAEX-102,2025-06-10 10:11:40,2025-06-10 22:45:54,Correctiva,Frenos,Fuga hidráulica,12.57,263.4,Baja,Faena Atacama Norte,2025-06
+OT00054,CAEX-101,2025-02-13 23:01:14,2025-02-14 06:29:08,Preventiva,Neumáticos,Sensor defectuoso,7.47,174.4,Media,Faena Atacama Norte,2025-02
+OT00055,CAEX-103,2025-06-16 03:32:38,2025-06-16 05:32:16,Preventiva,Motor,Sobrecalentamiento motor,1.99,300.5,Baja,Faena Atacama Norte,2025-06
+OT00056,CAEX-102,2025-03-17 21:30:16,2025-03-18 05:04:08,Preventiva,Transmisión,Desgaste de frenos,7.56,160.5,Media,Faena Atacama Norte,2025-03
+OT00057,CAEX-103,2025-06-14 05:16:29,2025-06-14 10:31:01,Correctiva,Neumáticos,Falla eléctrica en tablero,5.24,235.8,Alta,Faena Atacama Norte,2025-06
+OT00058,CAEX-104,2025-02-17 18:28:12,2025-02-17 21:42:35,Preventiva,Eléctrico,Rotura de neumático,3.24,291.3,Baja,Faena Atacama Norte,2025-02
+OT00059,CAEX-106,2025-05-26 10:54:43,2025-05-26 23:10:08,Preventiva,Neumáticos,Fuga hidráulica,12.26,263.9,Baja,Faena Atacama Norte,2025-05
+OT00060,CAEX-108,2025-06-21 15:22:47,2025-06-21 22:34:37,Preventiva,Eléctrico,Fuga hidráulica,7.2,245.5,Alta,Faena Atacama Norte,2025-06
+OT00061,CAEX-106,2025-04-10 15:19:18,2025-04-11 00:52:30,Preventiva,Neumáticos,Sobrecalentamiento motor,9.55,250.0,Baja,Faena Atacama Norte,2025-04
+OT00062,CAEX-105,2025-06-26 05:45:12,2025-06-26 07:33:43,Correctiva,Frenos,Desgaste de frenos,1.81,203.2,Media,Faena Atacama Norte,2025-06
+OT00063,CAEX-103,2025-05-09 15:06:00,2025-05-09 16:14:42,Correctiva,Motor,Desgaste de frenos,1.15,218.8,Alta,Faena Atacama Norte,2025-05
+OT00064,CAEX-101,2025-02-08 11:54:09,2025-02-08 17:30:55,Correctiva,Eléctrico,Rotura de neumático,5.61,148.9,Baja,Faena Atacama Norte,2025-02
+OT00065,CAEX-108,2025-01-12 18:23:06,2025-01-12 20:29:15,Correctiva,Eléctrico,Sensor defectuoso,2.1,237.5,Baja,Faena Atacama Norte,2025-01
+OT00066,CAEX-101,2025-02-19 10:23:55,2025-02-19 13:32:34,Correctiva,Eléctrico,Sensor defectuoso,3.14,305.0,Alta,Faena Atacama Norte,2025-02
+OT00067,CAEX-107,2025-04-25 23:58:15,2025-04-26 09:28:38,Correctiva,Neumáticos,Sensor defectuoso,9.51,189.4,Baja,Faena Atacama Norte,2025-04
+OT00068,CAEX-108,2025-03-28 09:43:16,2025-03-28 19:22:49,Correctiva,Transmisión,Desgaste de frenos,9.66,124.6,Media,Faena Atacama Norte,2025-03
+OT00069,CAEX-107,2025-06-12 16:49:16,2025-06-13 08:10:43,Preventiva,Motor,Desgaste de frenos,15.36,216.5,Media,Faena Atacama Norte,2025-06
+OT00070,CAEX-108,2025-01-24 21:06:44,2025-01-25 09:44:40,Preventiva,Eléctrico,Falla eléctrica en tablero,12.63,136.5,Alta,Faena Atacama Norte,2025-01
+OT00071,CAEX-107,2025-01-29 18:25:46,2025-01-30 02:28:21,Correctiva,Motor,Desgaste de frenos,8.04,218.1,Baja,Faena Atacama Norte,2025-01
+OT00072,CAEX-101,2025-06-18 11:17:55,2025-06-19 02:20:05,Preventiva,Frenos,Falla eléctrica en tablero,15.04,234.3,Media,Faena Atacama Norte,2025-06
+OT00073,CAEX-108,2025-01-25 08:45:04,2025-01-25 16:35:24,Correctiva,Motor,Rotura de neumático,7.84,173.4,Alta,Faena Atacama Norte,2025-01
+OT00074,CAEX-102,2025-03-09 08:58:10,2025-03-09 14:36:31,Preventiva,Eléctrico,Falla eléctrica en tablero,5.64,224.1,Baja,Faena Atacama Norte,2025-03
+OT00075,CAEX-108,2025-04-29 22:06:40,2025-04-30 05:24:51,Correctiva,Neumáticos,Sobrecalentamiento motor,7.3,124.3,Baja,Faena Atacama Norte,2025-04
+OT00076,CAEX-103,2025-05-26 19:43:41,2025-05-27 09:02:08,Preventiva,Eléctrico,Desgaste de frenos,13.31,299.2,Media,Faena Atacama Norte,2025-05
+OT00077,CAEX-102,2025-03-19 22:25:18,2025-03-20 01:05:43,Preventiva,Hidráulico,Falla eléctrica en tablero,2.67,230.8,Media,Faena Atacama Norte,2025-03
+OT00078,CAEX-101,2025-01-12 14:20:29,2025-01-12 16:31:27,Correctiva,Hidráulico,Desgaste de frenos,2.18,254.4,Baja,Faena Atacama Norte,2025-01
+OT00079,CAEX-101,2025-04-30 14:35:10,2025-04-30 19:26:42,Correctiva,Eléctrico,Falla eléctrica en tablero,4.86,251.9,Media,Faena Atacama Norte,2025-04
+OT00080,CAEX-106,2025-05-25 03:50:35,2025-05-25 15:36:41,Correctiva,Motor,Falla eléctrica en tablero,11.77,273.7,Media,Faena Atacama Norte,2025-05
+OT00081,CAEX-107,2025-03-03 18:21:40,2025-03-03 20:31:51,Correctiva,Motor,Sobrecalentamiento motor,2.17,303.2,Media,Faena Atacama Norte,2025-03
+OT00082,CAEX-103,2025-03-29 08:55:46,2025-03-29 12:59:51,Preventiva,Eléctrico,Sobrecalentamiento motor,4.07,127.5,Alta,Faena Atacama Norte,2025-03
+OT00083,CAEX-103,2025-03-14 04:45:35,2025-03-14 13:51:35,Preventiva,Transmisión,Sobrecalentamiento motor,9.1,194.2,Baja,Faena Atacama Norte,2025-03
+OT00084,CAEX-108,2025-01-26 02:28:52,2025-01-26 15:50:34,Correctiva,Motor,Rotura de neumático,13.36,281.7,Alta,Faena Atacama Norte,2025-01
+OT00085,CAEX-101,2025-03-05 07:49:37,2025-03-05 13:14:33,Correctiva,Transmisión,Fuga hidráulica,5.42,310.6,Alta,Faena Atacama Norte,2025-03
+OT00086,CAEX-106,2025-05-12 02:53:27,2025-05-12 07:54:00,Correctiva,Hidráulico,Desgaste de frenos,5.01,223.0,Baja,Faena Atacama Norte,2025-05
+OT00087,CAEX-101,2025-03-13 05:35:39,2025-03-13 10:03:41,Preventiva,Eléctrico,Sensor defectuoso,4.47,307.2,Baja,Faena Atacama Norte,2025-03
+OT00088,CAEX-106,2025-04-12 22:54:55,2025-04-13 01:58:00,Correctiva,Hidráulico,Falla eléctrica en tablero,3.05,129.0,Alta,Faena Atacama Norte,2025-04
+OT00089,CAEX-101,2025-01-11 10:04:19,2025-01-11 17:18:57,Preventiva,Eléctrico,Sobrecalentamiento motor,7.24,318.5,Baja,Faena Atacama Norte,2025-01
+OT00090,CAEX-103,2025-04-16 22:45:53,2025-04-17 13:05:08,Preventiva,Transmisión,Sensor defectuoso,14.32,269.7,Alta,Faena Atacama Norte,2025-04
+OT00091,CAEX-102,2025-05-11 18:20:30,2025-05-12 08:38:56,Preventiva,Eléctrico,Falla eléctrica en tablero,14.31,298.7,Baja,Faena Atacama Norte,2025-05
+OT00092,CAEX-104,2025-04-04 22:39:45,2025-04-05 07:12:17,Correctiva,Transmisión,Fuga hidráulica,8.54,183.2,Alta,Faena Atacama Norte,2025-04
+OT00093,CAEX-103,2025-06-06 16:36:40,2025-06-07 05:04:38,Correctiva,Frenos,Rotura de neumático,12.47,252.3,Alta,Faena Atacama Norte,2025-06
+OT00094,CAEX-108,2025-03-21 02:19:18,2025-03-21 08:36:48,Correctiva,Transmisión,Sensor defectuoso,6.29,138.9,Baja,Faena Atacama Norte,2025-03
+OT00095,CAEX-103,2025-02-20 01:07:10,2025-02-20 13:11:40,Correctiva,Frenos,Sensor defectuoso,12.08,172.5,Media,Faena Atacama Norte,2025-02
+OT00096,CAEX-102,2025-03-01 01:49:22,2025-03-01 16:50:36,Preventiva,Motor,Sobrecalentamiento motor,15.02,168.2,Media,Faena Atacama Norte,2025-03
+OT00097,CAEX-101,2025-06-20 10:29:26,2025-06-20 12:53:35,Correctiva,Transmisión,Rotura de neumático,2.4,286.2,Alta,Faena Atacama Norte,2025-06
+OT00098,CAEX-105,2025-06-18 12:44:06,2025-06-18 15:36:39,Correctiva,Eléctrico,Rotura de neumático,2.88,155.9,Media,Faena Atacama Norte,2025-06
+OT00099,CAEX-104,2025-05-22 23:44:26,2025-05-23 09:31:51,Preventiva,Neumáticos,Desgaste de frenos,9.79,294.9,Baja,Faena Atacama Norte,2025-05
+OT00100,CAEX-104,2025-01-06 10:03:22,2025-01-06 13:36:03,Preventiva,Eléctrico,Desgaste de frenos,3.54,182.1,Alta,Faena Atacama Norte,2025-01
+OT00101,CAEX-108,2025-01-26 11:17:42,2025-01-26 23:50:41,Correctiva,Motor,Rotura de neumático,12.55,314.4,Baja,Faena Atacama Norte,2025-01
+OT00102,CAEX-107,2025-02-20 08:38:45,2025-02-20 16:54:26,Correctiva,Eléctrico,Falla eléctrica en tablero,8.26,148.8,Baja,Faena Atacama Norte,2025-02
+OT00103,CAEX-105,2025-06-04 18:48:10,2025-06-04 19:31:07,Preventiva,Neumáticos,Sobrecalentamiento motor,0.72,165.9,Alta,Faena Atacama Norte,2025-06
+OT00104,CAEX-101,2025-02-12 15:19:39,2025-02-12 17:52:14,Correctiva,Eléctrico,Rotura de neumático,2.54,255.5,Media,Faena Atacama Norte,2025-02
+OT00105,CAEX-107,2025-03-25 02:11:49,2025-03-25 04:35:07,Correctiva,Motor,Sobrecalentamiento motor,2.39,221.3,Alta,Faena Atacama Norte,2025-03
+OT00106,CAEX-102,2025-02-22 18:09:03,2025-02-23 05:24:42,Correctiva,Frenos,Desgaste de frenos,11.26,236.2,Alta,Faena Atacama Norte,2025-02
+OT00107,CAEX-106,2025-06-05 22:51:49,2025-06-06 02:27:36,Preventiva,Eléctrico,Fuga hidráulica,3.6,280.8,Baja,Faena Atacama Norte,2025-06
+OT00108,CAEX-108,2025-01-11 06:19:57,2025-01-11 17:55:16,Preventiva,Hidráulico,Rotura de neumático,11.59,267.8,Baja,Faena Atacama Norte,2025-01
+OT00109,CAEX-102,2025-04-24 09:07:31,2025-04-24 11:39:24,Correctiva,Hidráulico,Fuga hidráulica,2.53,144.8,Baja,Faena Atacama Norte,2025-04
+OT00110,CAEX-101,2025-05-16 16:20:22,2025-05-17 07:12:59,Preventiva,Frenos,Sensor defectuoso,14.88,199.5,Baja,Faena Atacama Norte,2025-05
+OT00111,CAEX-107,2025-04-04 16:25:16,2025-04-04 21:35:08,Preventiva,Hidráulico,Sobrecalentamiento motor,5.16,217.7,Alta,Faena Atacama Norte,2025-04
+OT00112,CAEX-101,2025-06-09 17:39:05,2025-06-10 04:25:32,Preventiva,Eléctrico,Sensor defectuoso,10.77,311.1,Media,Faena Atacama Norte,2025-06
+OT00113,CAEX-105,2025-03-10 16:35:45,2025-03-10 21:32:08,Preventiva,Neumáticos,Desgaste de frenos,4.94,305.0,Alta,Faena Atacama Norte,2025-03
+OT00114,CAEX-101,2025-01-14 02:21:10,2025-01-14 03:14:17,Preventiva,Hidráulico,Rotura de neumático,0.89,231.0,Alta,Faena Atacama Norte,2025-01
+OT00115,CAEX-106,2025-05-12 20:05:36,2025-05-13 06:25:11,Preventiva,Eléctrico,Falla eléctrica en tablero,10.33,141.2,Baja,Faena Atacama Norte,2025-05
+OT00116,CAEX-108,2025-04-26 01:46:08,2025-04-26 04:26:38,Preventiva,Hidráulico,Fuga hidráulica,2.68,203.8,Alta,Faena Atacama Norte,2025-04
+OT00117,CAEX-103,2025-04-12 03:31:52,2025-04-12 19:00:27,Correctiva,Frenos,Desgaste de frenos,15.48,239.2,Media,Faena Atacama Norte,2025-04
+OT00118,CAEX-102,2025-04-30 14:32:00,2025-05-01 05:29:42,Correctiva,Neumáticos,Falla eléctrica en tablero,14.96,280.9,Alta,Faena Atacama Norte,2025-04
+OT00119,CAEX-107,2025-06-11 02:35:22,2025-06-11 10:20:01,Preventiva,Eléctrico,Fuga hidráulica,7.74,277.0,Baja,Faena Atacama Norte,2025-06
+OT00120,CAEX-102,2025-03-13 18:10:46,2025-03-13 18:57:21,Correctiva,Hidráulico,Fuga hidráulica,0.78,141.8,Alta,Faena Atacama Norte,2025-03
+OT00121,CAEX-106,2025-03-02 23:31:17,2025-03-03 12:52:39,Preventiva,Eléctrico,Sensor defectuoso,13.36,279.4,Media,Faena Atacama Norte,2025-03
+OT00122,CAEX-101,2025-04-16 18:18:23,2025-04-16 22:24:44,Correctiva,Neumáticos,Sobrecalentamiento motor,4.11,226.2,Alta,Faena Atacama Norte,2025-04
+OT00123,CAEX-105,2025-02-17 07:50:38,2025-02-17 17:44:13,Correctiva,Hidráulico,Fuga hidráulica,9.89,293.5,Alta,Faena Atacama Norte,2025-02
+OT00124,CAEX-106,2025-01-08 05:59:55,2025-01-08 15:50:48,Preventiva,Eléctrico,Fuga hidráulica,9.85,202.5,Media,Faena Atacama Norte,2025-01
+OT00125,CAEX-101,2025-01-16 14:25:56,2025-01-16 20:43:55,Correctiva,Transmisión,Fuga hidráulica,6.3,205.2,Alta,Faena Atacama Norte,2025-01
+OT00126,CAEX-103,2025-02-22 09:03:22,2025-02-22 19:39:39,Correctiva,Eléctrico,Rotura de neumático,10.6,293.5,Alta,Faena Atacama Norte,2025-02
+OT00127,CAEX-108,2025-01-03 11:01:08,2025-01-03 18:33:15,Correctiva,Neumáticos,Fuga hidráulica,7.54,169.6,Baja,Faena Atacama Norte,2025-01
+OT00128,CAEX-104,2025-06-16 09:42:06,2025-06-16 13:52:11,Correctiva,Neumáticos,Fuga hidráulica,4.17,269.2,Alta,Faena Atacama Norte,2025-06
+OT00129,CAEX-105,2025-01-28 15:07:52,2025-01-29 04:17:16,Correctiva,Motor,Sobrecalentamiento motor,13.16,141.1,Alta,Faena Atacama Norte,2025-01
+OT00130,CAEX-106,2025-02-17 14:53:19,2025-02-17 16:25:12,Preventiva,Frenos,Fuga hidráulica,1.53,238.9,Media,Faena Atacama Norte,2025-02
+OT00131,CAEX-108,2025-02-12 01:20:41,2025-02-12 04:06:37,Preventiva,Transmisión,Sensor defectuoso,2.77,284.9,Media,Faena Atacama Norte,2025-02
+OT00132,CAEX-102,2025-05-24 17:56:13,2025-05-24 23:14:49,Preventiva,Motor,Falla eléctrica en tablero,5.31,148.8,Alta,Faena Atacama Norte,2025-05
+OT00133,CAEX-105,2025-03-17 00:05:31,2025-03-17 14:52:01,Preventiva,Eléctrico,Sobrecalentamiento motor,14.78,153.1,Alta,Faena Atacama Norte,2025-03
+OT00134,CAEX-103,2025-03-13 01:53:58,2025-03-13 06:48:45,Preventiva,Hidráulico,Sensor defectuoso,4.91,150.7,Baja,Faena Atacama Norte,2025-03
+OT00135,CAEX-106,2025-06-01 19:50:01,2025-06-01 22:07:25,Correctiva,Transmisión,Sensor defectuoso,2.29,124.2,Baja,Faena Atacama Norte,2025-06
+OT00136,CAEX-104,2025-01-31 19:15:10,2025-01-31 20:36:41,Correctiva,Transmisión,Desgaste de frenos,1.36,154.9,Alta,Faena Atacama Norte,2025-01
+OT00137,CAEX-105,2025-05-23 19:06:38,2025-05-23 20:26:16,Preventiva,Hidráulico,Falla eléctrica en tablero,1.33,238.2,Media,Faena Atacama Norte,2025-05
+OT00138,CAEX-105,2025-03-15 06:10:21,2025-03-15 17:13:24,Preventiva,Frenos,Falla eléctrica en tablero,11.05,198.7,Baja,Faena Atacama Norte,2025-03
+OT00139,CAEX-107,2025-01-19 03:58:20,2025-01-19 09:24:03,Correctiva,Hidráulico,Fuga hidráulica,5.43,220.9,Media,Faena Atacama Norte,2025-01
+OT00140,CAEX-102,2025-02-16 19:50:56,2025-02-17 09:54:41,Preventiva,Eléctrico,Sobrecalentamiento motor,14.06,290.2,Baja,Faena Atacama Norte,2025-02
+OT00141,CAEX-101,2025-02-15 20:26:48,2025-02-15 21:37:13,Preventiva,Transmisión,Sensor defectuoso,1.17,156.3,Alta,Faena Atacama Norte,2025-02
+OT00142,CAEX-103,2025-05-12 09:12:35,2025-05-12 13:22:45,Preventiva,Frenos,Desgaste de frenos,4.17,169.9,Baja,Faena Atacama Norte,2025-05
+OT00143,CAEX-108,2025-05-29 16:40:33,2025-05-30 02:01:47,Preventiva,Motor,Desgaste de frenos,9.35,203.3,Baja,Faena Atacama Norte,2025-05
+OT00144,CAEX-103,2025-03-05 01:00:37,2025-03-05 02:16:25,Preventiva,Motor,Sobrecalentamiento motor,1.26,194.7,Alta,Faena Atacama Norte,2025-03
+OT00145,CAEX-102,2025-05-16 06:51:02,2025-05-16 15:28:07,Correctiva,Transmisión,Rotura de neumático,8.62,140.3,Media,Faena Atacama Norte,2025-05
+OT00146,CAEX-103,2025-04-26 13:40:40,2025-04-27 03:05:46,Correctiva,Motor,Desgaste de frenos,13.42,130.4,Baja,Faena Atacama Norte,2025-04
+OT00147,CAEX-106,2025-05-13 17:57:35,2025-05-14 08:47:41,Correctiva,Eléctrico,Rotura de neumático,14.84,139.8,Alta,Faena Atacama Norte,2025-05
+OT00148,CAEX-107,2025-04-09 02:03:39,2025-04-09 15:38:10,Correctiva,Frenos,Falla eléctrica en tablero,13.58,300.5,Alta,Faena Atacama Norte,2025-04
+OT00149,CAEX-102,2025-02-05 02:56:43,2025-02-05 18:37:43,Correctiva,Transmisión,Falla eléctrica en tablero,15.68,280.4,Media,Faena Atacama Norte,2025-02
+OT00150,CAEX-102,2025-02-20 07:02:59,2025-02-20 19:37:53,Correctiva,Motor,Rotura de neumático,12.58,248.5,Media,Faena Atacama Norte,2025-02
