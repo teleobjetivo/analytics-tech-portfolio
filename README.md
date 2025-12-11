@@ -1,70 +1,93 @@
+# 🚀 Portafolio de Analítica & Tecnología  
+### Minería · Retail · TI · Ciencia · Automatización
 
-# Portafolio de Analítica & Tecnología  
-## Minería · Retail · TI · Ciencia · Automatización
+Este portafolio reúne proyectos diseñados para demostrar capacidad técnica, pensamiento analítico, diseño de soluciones y claridad ejecutiva.  
+Cada proyecto combina datos simulados, metodologías replicables y notebooks ejecutables con estándares profesionales.
 
-## Introducción
-Este portafolio reúne una selección de proyectos diseñados para demostrar capacidad técnica, pensamiento analítico, diseño de soluciones y claridad ejecutiva. Los proyectos están construidos con datasets simulados, metodologías replicables y notebooks ejecutables, manteniendo estándares profesionales en estructura, interpretación y documentación.
-
-Cada proyecto aborda un problema distinto —desde la salud de activos mineros hasta modelos de riesgo, herramientas de soporte TI y análisis científico— mostrando versatilidad y profundidad en el tratamiento de datos, narrativa analítica y pragmatismo ingenieril.
+Representa mi estilo de trabajo: **rigurosidad técnica, visión estratégica, simpleza elegante y foco en impacto real.**
 
 ---
 
 # 🧭 Índice del Portafolio
 
 ## **Minería**
-1. **P01 – Salud de Activos en Camiones de Extracción**
-2. **P02 – Backlog de Mantenimiento y Priorización Operativa**
-3. **P03 – Fallas en Correas Transportadoras**
+- **P01 – Salud de Activos en Camiones de Extracción**
+- **P02 – Backlog de Mantenimiento y Priorización Operativa**
+- **P03 – Fallas en Correas Transportadoras**
 
 ## **Retail & Finanzas**
-4. **P05 – Segmentación de Riesgo en Créditos Retail**
+- **P05 – Segmentación de Riesgo en Créditos Retail**
 
 ## **Tecnologías de Soporte & Servicios**
-5. **P04 – Priorización Inteligente de Tickets TI**
+- **P04 – Priorización Inteligente de Tickets TI**
 
 ## **Ciencia & Astrofotografía**
-6. **P06 – Score de Calidad de Noche de Observación (Cielo Profundo)**
+- **P06 – Puntuación de Calidad de Noche de Observación**
+
+## **Ingeniería Avanzada & Automatización**
+- **P07 – ALMA Deep Sky Pipeline (from Chile) – Integración de Datos ALMA para Análisis Científico**
+- **P08 – DataCopilot – Auto-Analyst (Análisis Inteligente Automático)**
 
 ---
 
-# 🧩 Contenido del repositorio
+# 🧩 Contenido del Repositorio
+
 Cada proyecto incluye:
 
-- **Dataset simulado (.csv)**
-- **Notebook ejecutable (.ipynb)**
-- **Gráficos generados automáticamente**
-- **Interpretación ejecutiva de KPIs**
-- **Conclusiones accionables**
-- **README propio por proyecto**
+- Dataset simulado o recuperado  
+- Notebook ejecutable  
+- Pipeline reproducible  
+- Gráficos y visualizaciones  
+- Interpretación ejecutiva  
+- Conclusiones accionables  
+- README independiente  
 
 ---
 
-# 🛠 Tecnologías utilizadas
+# 🛠 Tecnologías Utilizadas
+
 - Python 3.10  
 - Pandas · NumPy  
 - Matplotlib  
+- APIs públicas (NASA / ALMA)  
+- Automatización de pipelines  
 - Jupyter Notebook  
 - Git & GitHub  
 
 ---
 
-# 👤 About Me – Hugo Baghetti Calderón
-Ingeniero en Informática y Magíster en Gestión TI, con más de 15 años liderando proyectos de tecnología, analítica y transformación digital. Mi trabajo combina estrategia, ciencia de datos y operación real de negocio, integrando capacidades técnicas con visión ejecutiva.
+# 👤 **About Me – Hugo Baghetti Calderón**
 
-Me especializo en estructurar y escalar procesos de análisis basados en datos, generar valor desde la observación —desde la operación minera hasta la investigación astronómica— y traducir métricas complejas en decisiones claras. He trabajado en arquitectura de datos, integración de sistemas, automatización, gestión de plataformas TI y habilitación de equipos técnicos.
+Ingeniero en Informática y Magíster en Gestión TI, con más de 15 años liderando proyectos de tecnología, analítica y transformación digital.  
+Mi trabajo combina estrategia, ciencia de datos y operación real, integrando ingeniería con visión ejecutiva.
 
-Exploro, investigo y construyo soluciones. Mi enfoque une el método científico, la ingeniería y la narrativa visual; desde modelos analíticos hasta proyectos de cielo profundo. Creo en el uso inteligente de la información, en la rigurosidad técnica y en la elegancia de las soluciones simples que funcionan.
+Me especializo en:
+
+- Integración y arquitectura de datos  
+- Analytics aplicados al negocio  
+- Sistemas distribuidos  
+- Automatización y pipelines  
+- Ciencia aplicada (astronomía – análisis de cielo profundo)  
+- Diseño de soluciones y liderazgo técnico  
+
+Soy un profesional orientado a investigación, experimentación y resultados.  
+Mi enfoque une el método científico, la ingeniería y la narrativa visual: desde modelos analíticos hasta astrofotografía avanzada.
+
+Creo en la **elegancia de las soluciones simples que funcionan**, en el uso inteligente de los datos y en procesos que verdaderamente ayudan a las personas y a los equipos.
 
 ---
 
-## 🔗 Contacto & Presencia Online
+# 🔗 Contacto & Presencia Online
 
 - ✉️ **Email**: [teleobjetivo.boutique@gmail.com](mailto:teleobjetivo.boutique@gmail.com)  
-- 🌐 **Web**: [www.teleobjetivo.cl](https://www.teleobjetivo.cl)  
-- 📷 **Instagram**: [@tele.objetivo](https://www.instagram.com/tele.objetivo)  
-- 💻 **GitHub (Portafolio)**: [teleobjetivo/analytics-tech-portfolio](https://github.com/teleobjetivo/analytics-tech-portfolio)
+- 🌐 **Web**: https://www.teleobjetivo.cl  
+- 📷 **Instagram**: https://www.instagram.com/tele.objetivo  
+- 💻 **GitHub – Portafolio**: https://github.com/teleobjetivo/analytics-tech-portfolio
 
 ---
 
 # 📌 Licencia
-Uso libre para fines de aprendizaje, demostración y extensión técnica.
+
+Uso libre para aprendizaje, demostración y extensión técnica.
+
+---
