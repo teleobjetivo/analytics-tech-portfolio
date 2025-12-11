@@ -8,25 +8,27 @@ Representa mi estilo de trabajo: **rigurosidad técnica, visión estratégica, s
 
 ---
 
-# 🧭 Índice del Portafolio
+## 🧭 Índice del Portafolio
 
-## **Minería**
+### Minería
 - **P01 – Salud de Activos en Camiones de Extracción**
 - **P02 – Backlog de Mantenimiento y Priorización Operativa**
 - **P03 – Fallas en Correas Transportadoras**
 
-## **Retail & Finanzas**
+### Venta minorista y finanzas
 - **P05 – Segmentación de Riesgo en Créditos Retail**
 
-## **Tecnologías de Soporte & Servicios**
+### Tecnologías de soporte y servicios
 - **P04 – Priorización Inteligente de Tickets TI**
 
-## **Ciencia & Astrofotografía**
-- **P06 – Puntuación de Calidad de Noche de Observación**
+### Ciencia & Astrofotografía
+- **P06 – Puntuación de Calidad de Noche de Observación (Cielo Profundo)**
+- **P07 – ALMA Deep Sky Pipeline (from Chile)**
 
-## **Ingeniería Avanzada & Automatización**
-- **P07 – ALMA Deep Sky Pipeline (from Chile) – Integración de Datos ALMA para Análisis Científico**
-- **P08 – DataCopilot – Auto-Analyst (Análisis Inteligente Automático)**
+### Herramientas avanzadas de Analytics & Estrategia
+- **P08 – DataCopilot Auto-Analyst**  
+- **P09 – Executive HTML Dashboard (estático, exportable)**  
+- **P10 – Analytics Readiness Framework (ARF) + Mini-paper**
 
 ---
 
