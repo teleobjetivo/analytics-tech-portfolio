@@ -1,10 +1,8 @@
 # 🚀 Portafolio de Analítica & Tecnología  
-### Minería · Retail · TI · Ciencia · Automatización
+### Proyectos de Minería · Retail · TI · Ciencia · Automatización
 
-Este portafolio reúne proyectos diseñados para demostrar capacidad técnica, pensamiento analítico, diseño de soluciones y claridad ejecutiva.  
-Cada proyecto combina datos simulados, metodologías replicables y notebooks ejecutables con estándares profesionales.
-
-Representa mi estilo de trabajo: **rigurosidad técnica, visión estratégica, simpleza elegante y foco en impacto real.**
+Este portafolio reúne proyectos diseñados para demostrar desarrollo técnica, pensamiento analítico, diseño de soluciones y entrega de nivel ejecutivo.  
+Cada proyecto combina datos descargados y tambien simulados, metodologías replicables y notebooks ejecutables con estándares profesionales.
 
 ---
 
@@ -75,11 +73,9 @@ Me especializo en:
 Soy un profesional orientado a investigación, experimentación y resultados.  
 Mi enfoque une el método científico, la ingeniería y la narrativa visual: desde modelos analíticos hasta astrofotografía avanzada.
 
-Creo en la **elegancia de las soluciones simples que funcionan**, en el uso inteligente de los datos y en procesos que verdaderamente ayudan a las personas y a los equipos.
-
 ---
 
-# 🔗 Contacto & Presencia Online
+# 🔗 Contacto Online
 
 - ✉️ **Email**: [teleobjetivo.boutique@gmail.com](mailto:teleobjetivo.boutique@gmail.com)  
 - 🌐 **Web**: https://www.teleobjetivo.cl  
