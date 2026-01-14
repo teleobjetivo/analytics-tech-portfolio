@@ -1,7 +1,7 @@
 # 🚀 Portafolio de Analítica & Tecnología  
 ### Proyectos de Minería · Retail · TI · Ciencia · Automatización
 
-Este portafolio reúne proyectos diseñados para demostrar desarrollo técnica, pensamiento analítico, diseño de soluciones y entrega de nivel ejecutivo.  
+Bienvenido a mi portafolio de Analitica, éste reúne proyectos diseñados para demostrar desarrollo técnico, analísis, diseño de soluciones y entrega de nivel ejecutivo.  
 Cada proyecto combina datos descargados y tambien simulados, metodologías replicables y notebooks ejecutables con estándares profesionales.
 
 ---
