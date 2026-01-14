@@ -71,7 +71,7 @@ Me especializo en:
 - Diseño de soluciones y liderazgo técnico  
 
 Soy un profesional orientado a investigación, experimentación y resultados.  
-Mi enfoque une el método científico, la ingeniería y la narrativa visual: desde modelos analíticos hasta astrofotografía avanzada.
+Mi enfoque une método científico, ingeniería y narrativa visual.
 
 ---
 
