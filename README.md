@@ -1,4 +1,4 @@
-# 🚀 Portafolio de Analítica & Tecnología  
+# Portafolio de Analítica & Tecnología  
 ### Proyectos de Minería · Retail · TI · Ciencia · Automatización
 
 Bienvenido a mi portafolio de Analitica, éste reúne proyectos diseñados para demostrar desarrollo técnico, analísis, diseño de soluciones y entrega de nivel ejecutivo.  
@@ -6,7 +6,7 @@ Cada proyecto combina datos descargados y tambien simulados, metodologías repli
 
 ---
 
-## 🧭 Índice del Portafolio
+## Índice del Portafolio
 
 ### Minería
 - **P01 – Salud de Activos en Camiones de Extracción**
@@ -30,7 +30,7 @@ Cada proyecto combina datos descargados y tambien simulados, metodologías repli
 
 ---
 
-# 🧩 Contenido del Repositorio
+# Contenido del Repositorio
 
 Cada proyecto incluye:
 
@@ -44,7 +44,7 @@ Cada proyecto incluye:
 
 ---
 
-# 🛠 Tecnologías Utilizadas
+# Tecnologías Utilizadas
 
 - Python 3.10  
 - Pandas · NumPy  
@@ -56,7 +56,7 @@ Cada proyecto incluye:
 
 ---
 
-# 👤 **About Me – Hugo Baghetti Calderón**
+# **About Me – Hugo Baghetti Calderón**
 
 Ingeniero en Informática y Magíster en Gestión TI, con más de 15 años liderando proyectos de tecnología, analítica y transformación digital.  
 Mi trabajo combina estrategia, ciencia de datos y operación real, integrando ingeniería con visión ejecutiva.
@@ -84,7 +84,7 @@ Mi enfoque une método científico, ingeniería y narrativa visual.
 
 ---
 
-# 📌 Licencia
+# Licencia
 
 Uso libre para aprendizaje, demostración y extensión técnica.
 
